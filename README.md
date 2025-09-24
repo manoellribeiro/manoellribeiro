@@ -7,7 +7,7 @@
 
 🎨 I like interactive arts especially the ones created with the [Processing Project](https://processing.org/).
 
-🤝 Checkout my open source android project - [Martp](https://github.com/manoellribeiro/map-arts).
+🤝 Check out my open source android project - [Martp](https://github.com/manoellribeiro/map-arts).
 
 📚 I'm seeking to study more backend development with Java and Spring Boot.
 
