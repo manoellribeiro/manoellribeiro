@@ -5,7 +5,7 @@
 ## About me
 👩‍💻 I have been working with Android development for 6 years.
 
-📖 I'm a contributor on two open sources projects, the [Processing Project]([https://processing.org/](https://github.com/processing/processing4/blob/main/CONTRIBUTORS.md) and [sdkgen](https://github.com/sdkgen/sdkgen/graphs/contributors?all=1).  
+📖 I'm a contributor on two open sources projects, the [Processing Project](https://github.com/processing/processing4/blob/main/CONTRIBUTORS.md) and [sdkgen](https://github.com/sdkgen/sdkgen/graphs/contributors?all=1).  
 
 🎨 I like interactive arts especially the ones created with the [Processing Project](https://processing.org/).
 
